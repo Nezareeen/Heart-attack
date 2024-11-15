@@ -3,9 +3,18 @@
 ## And
 
 
-<img src="./AndSCR.png" />
+<img src="./Heart/AndSCR.png" />
 
 
 ## Xor
 
-<img src="./XorSCR.png" />
+
+
+
+
+
+
+
+
+
+<img src="./Heart/XorSCR.png" />
